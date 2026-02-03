@@ -1,4 +1,4 @@
-# vllm-project
+# vllm-project (Day 2)
 
 ## 這是什麼？
 本專案為「互動 API 環節實作」課程作業。
